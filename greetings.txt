@@ -22,3 +22,33 @@ Informal: Ciao
 
 Formal: Konnichiwa
 Informal: Yā, Yō
+
+
+7. German
+
+Formal: Guten Tag
+Informal: Hallo, Hi
+8. Portuguese
+
+Formal: Olá
+Informal: Oi
+9. Korean
+
+Formal: Anyoung haseyo
+Informal: Anyoung
+10. Arabic
+
+Formal: Asalaam alaikum (Peace be upon you)
+Informal: Ahlan
+11. Danish
+
+Formal: Goddag
+Informal: Hej, Halløj
+12. Swahili
+
+Formal: Shikamoo
+Informal: Habari, Hujambo
+13. Dutch
+
+Formal: Goedendag
+Informal: Hoi, Hallo
