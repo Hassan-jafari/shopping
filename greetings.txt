@@ -52,3 +52,16 @@ Informal: Habari, Hujambo
 
 Formal: Goedendag
 Informal: Hoi, Hallo
+
+19. Hebrew
+
+Formal: Shalom
+Informal: Hey
+20. Swedish
+
+Formal: God dag
+Informal: Hej, Tjena
+21. Norwegian
+
+Formal: God dag
+Informal: Hei
